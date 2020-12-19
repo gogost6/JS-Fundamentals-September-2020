@@ -13,4 +13,3 @@ function solve (age) {
         console.log(`out of bounds`);
     }
 }
-solve(5)
